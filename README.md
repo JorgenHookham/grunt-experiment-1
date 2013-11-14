@@ -1,7 +1,7 @@
 task-experiment-1
 =================
 
-Fiddling with javascript tasks
+Fiddling with javascript tasks. This is the most basic example of a grunt environment that I could think of. It's meant to be a way of introducing the most basic building blocks of grunt.
 
 ## Purpose
 The purpose of this experiment is to build the most basic FE task environment possible using gruntjs. Grunt runs task in the command line.
